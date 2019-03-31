@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Music app</string>
+    <string name="title_songs">SONGS</string>
+    <string name="title_albums">ALBUMS</string>
+
+    <string name="album_killshot">Killshot</string>
+    <string name="artist_eminem">Eminem</string>
+    <string name="song_killshot">Killshot</string>
+
+    <string name="album_kod">KOD</string>
+    <string name="artist_jcole">J.Cole</string>
+    <string name="song_1985">1985</string>
+
+    <string name="album_ysiv">YSIV</string>
+    <string name="artist_logic">Logic</string>
+    <string name="song_iconic">ICONIC</string>
+
+    <string name="album_culture_ii">CultureII</string>
+    <string name="artist_migos">Migos</string>
+    <string name="song_walk_it_talk_it">Walk it Talk it</string>
+</resources>
